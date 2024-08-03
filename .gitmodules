@@ -1,0 +1,3 @@
+[submodule "baselines/GAlign"]
+	path = baselines/GAlign
+	url = git@github.com:vinhsuhi/GAlign.git
